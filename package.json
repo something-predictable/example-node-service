@@ -1,6 +1,5 @@
 {
-  "name": "example-service",
-  "version": "0.0.1",
+  "name": "greeting-example-service",
   "type": "module",
   "private": true,
   "engines": {
@@ -10,9 +9,9 @@
     "start": "riddance-watch"
   },
   "dependencies": {
-    "@riddance/service": "0.1.0"
+    "@riddance/service": "0.1.1"
   },
   "devDependencies": {
-    "@riddance/env": "0.5.0"
+    "@riddance/env": "0.6.3"
   }
 }
